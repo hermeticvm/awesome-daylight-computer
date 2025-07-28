@@ -2,29 +2,31 @@
 
 A curated list of cool projects, apps, and resources for the [Daylight Computer DC-1](https://daylightcomputer.com/product) - the blue light-free tablet that protects your circadian rhythm with its custom Reflective LCD display called LivePaper.
 
-> The DC-1 features a custom RLCD display with two independent backlights, including a 100% blue light-free option, which is the amber backlight that you see on most pictures of it. It works beautifully outdoors and even in direct sunlight, without requiring any backlight.
+> The DC-1 features a custom IGZO rLCD display produced by SHARP with two independent backlights, including a 100% blue light-free option, which is the amber backlight that you see on most pictures of it. It works beautifully outdoors and even in direct sunlight, often without requiring any backlight.
 
 ## 📱 General resources
 
-- **Daylight Computer Company website**: https://daylightcomputer.com/
-- **DC-1 Product specs**: https://daylightcomputer.com/product
-- **Daylight Hacker Wiki**: https://www.daylighthacker.wiki/
-- **Daylight Hacker Gitlab**: https://gitlab.com/daylight-hacker-wiki
-- **Daylight DC-1 Press Kit**: https://support.daylightcomputer.com/daylight-dc-1-press-kit-1
-
-- **Official Daylight update regarding their Android 16 release**: https://twiiit.com/daylightco/status/1932106242392211580
+- **[Daylight Computer Company website](https://daylightcomputer.com/)**
+- **[DC-1 Product specs](https://daylightcomputer.com/product)**
+- **[Daylight Hacker Wiki](https://www.daylighthacker.wiki/)**
+- **[Daylight Hacker Gitlab](https://gitlab.com/daylight-hacker-wiki)**
+- **[Daylight DC-1 Press Kit](https://support.daylightcomputer.com/daylight-dc-1-press-kit-1)**
+- **[Daylight Capture & Reader App for all major platforms](https://support.daylightcomputer.com/download-capture-app)**
+- **[Official DaylightCo Subreddit](https://www.reddit.com/r/daylightco/)** 
+- **[Unofficial DaylightComputer Subreddit](https://www.reddit.com/r/daylightcomputer/)**
+- **[Official Daylight update regarding their Android 16 release](https://twiiit.com/daylightco/status/1932106242392211580)**
+- **[Access documents in Reader app on other platforms](https://app.daylightcomputer.com/)**
+- **[Semi-official(?) Discord](https://discord.gg/FQ8M4W3f)** (I refuse calling these "servers")
+- **[Daylight Hacker Discord](https://discord.gg/dGKBT3dt)** (I refuse calling these "servers")
 
 ## Tablet Stands & Accessories
 
 ### Recommended Stands
-- **Moft Snap Tablet Stand** - Ultra-thin magnetic stand perfect for DC-1
-  - https://www.moft.us/products/moft-snap-tablet-stand?variant=39308811173975
+- **[Moft Snap Tablet Stand](https://www.moft.us/products/moft-snap-tablet-stand?variant=39308811173975)** - Ultra-thin magnetic stand perfect for DC-1
 
-- **Fintie Carrying Case for Apple Magic Keyboard** - Doubles as a stand, requires a an Apple Magic Keyboard (though the 2nd + 3rd generation ones won't fit perfectly)
-  - https://www.fintie.com/products/fintie-carrying-case-for-apple-magic-keyboard-mla22ll
+- **[Fintie Carrying Case for Apple Magic Keyboard](https://www.fintie.com/products/fintie-carrying-case-for-apple-magic-keyboard-mla22ll)** - Doubles as a stand, requires an Apple Magic Keyboard (for Mac, not iPad)
 
-- **Yamazaki 7327 RIN** - Minimalist tablet stand (often featured in Daylight Computer's marketing photos)
-  - https://theyamazakihome.com/products/rin-tablet-stand?variant=17444340891699
+- **[Yamazaki 7327 RIN](https://theyamazakihome.com/products/rin-tablet-stand?variant=17444340891699)** - Minimalist wooden tablet stand (often featured in Daylight Computer's marketing photos)
 
 ## Reader Apps
 
