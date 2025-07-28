@@ -1,98 +1,92 @@
 # Awesome Daylight Computer DC-1 Resources
 
-A curated list of awesome projects, apps, and resources for the [Daylight Computer DC-1](https://daylightcomputer.com/product) - the blue light-free tablet that protects your circadian rhythm with its revolutionary RLCD display technology.
+A curated list of cool projects, apps, and resources for the [Daylight Computer DC-1](https://daylightcomputer.com/product) - the blue light-free tablet that protects your circadian rhythm with its custom Reflective LCD display called LivePaper.
 
-> The DC-1 features a custom RLCD display with two independent backlights (including a 100% blue light-free option) that works beautifully outdoors and in direct sunlight without requiring any backlight.
+> The DC-1 features a custom RLCD display with two independent backlights, including a 100% blue light-free option, which is the amber backlight that you see on most pictures of it. It works beautifully outdoors and even in direct sunlight, without requiring any backlight.
 
-## 📱 Official Resources
+## 📱 General resources
 
-- **Daylight Computer (company)**: https://daylightcomputer.com/
+- **Daylight Computer Company website**: https://daylightcomputer.com/
 - **DC-1 Product specs**: https://daylightcomputer.com/product
 - **Daylight Hacker Wiki**: https://www.daylighthacker.wiki/
 - **Daylight Hacker Gitlab**: https://gitlab.com/daylight-hacker-wiki
 - **Daylight DC-1 Press Kit**: https://support.daylightcomputer.com/daylight-dc-1-press-kit-1
 
-## 🏗️ Tablet Stands & Accessories
+- **Official Daylight update regarding their Android 16 release**: https://twiiit.com/daylightco/status/1932106242392211580
+
+## Tablet Stands & Accessories
 
 ### Recommended Stands
 - **Moft Snap Tablet Stand** - Ultra-thin magnetic stand perfect for DC-1
   - https://www.moft.us/products/moft-snap-tablet-stand?variant=39308811173975
 
-- **Fintie Carrying Case for Apple Magic Keyboard** - Doubles as a stand
+- **Fintie Carrying Case for Apple Magic Keyboard** - Doubles as a stand, requires a an Apple Magic Keyboard (though the 2nd + 3rd generation ones won't fit perfectly)
   - https://www.fintie.com/products/fintie-carrying-case-for-apple-magic-keyboard-mla22ll
 
-- **Yamazaki 7327 RIN** - Minimalist tablet stand (featured in Daylight marketing)
+- **Yamazaki 7327 RIN** - Minimalist tablet stand (often featured in Daylight Computer's marketing photos)
   - https://theyamazakihome.com/products/rin-tablet-stand?variant=17444340891699
 
-## 📚 Reader Apps
+## Reader Apps
 
-### Open Source Readers
-- **[Anx Reader](https://github.com/Anxcye/anx-reader)** - Clean, minimalist e-reader
+### Android reading apps
+
+In case you also tend to read many books in parallel as I do. This will make it easier because you won't have to switch between books and can just switch between apps. 
+
+### Free Software readers
+- **[Anx Reader](https://github.com/Anxcye/anx-reader)** - Very customizable e-reader with AI support, made by Chinese
 - **[Readest](https://github.com/readest/readest)** - Modern e-book reader with sync
-- **[Book Story](https://github.com/Acclorite/book-story)** - Lightweight reading app
-- **[KOReader](https://github.com/koreader/koreader/)** - Feature-rich document viewer
-- **[Librera Reader](https://github.com/foobnix/LibreraReader)** - Versatile document reader
+- **[Book Story](https://github.com/Acclorite/book-story)** - Lightweight reading app with library support
+- **[KOReader](https://github.com/koreader/koreader/)** - Super minimalist & highly customizable eink optimized reader, the NetBSD of ebook readers
+- **[Librera Reader](https://github.com/foobnix/LibreraReader)** - Versatile document reader, very active development
+- **[MuPDF Viewer](https://play.google.com/store/apps/details?id=com.artifex.mupdf.viewer.app&hl=en_CA)** - Lightweight PDF viewer based on a custom ebook reading library
 
 ### Proprietary Readers
-- **[ReadEra](https://readera.org/)** - Popular Android e-book reader
-- **Kindle Android App** - Amazon's official reader (Google Play Store)
-- **[FBReader](https://fbreader.org/android)** - Classic e-book reader
-- **Moon+ Reader** - Feature-packed reading app (Google Play Store)
-- **MuPDF Viewer** - Lightweight PDF viewer (Google Play Store)
+- **[ReadEra](https://readera.org/)** - Popular Android e-book reader, not open source though
+- **[Kindle Android App](https://play.google.com/store/apps/details?id=com.amazon.kindle&hl=en_US)** - Amazon's official reader, in case you like paying for licenses to books instead of owning them
+- **[FBReader](https://fbreader.org/android)** - Another e-book reader, not free software but their [heart's in the right place](https://fbreader.org/blog/why_we_are_building_readino) at least
 
-## ⌨️ Android Keyboards
+## Android Keyboards
 
 ### Open Source Keyboards
+
+I don't like to feed Google so I disabled Gboard. Only disable Gboard after installing and selecting at least one alternative.
+
+- **[FUTO Keyboard](https://github.com/futo-org/android-keyboard)** - Privacy-respecting keyboard
 - **[FlorisBoard](https://github.com/florisboard/florisboard)** - Modern, privacy-focused keyboard
 - **[HeliBoard](https://github.com/Helium314/HeliBoard)** - Open-source keyboard based on AOSP
-- **[FUTO Keyboard](https://github.com/futo-org/android-keyboard)** - Privacy-respecting keyboard
 
-## 🏠 Minimalist Launchers
+## Minimalist Launchers
 
 ### E-Ink Optimized Launchers
 - **[ThinkLauncher](https://github.com/MatiasDesuu/ThinkLauncher)** - Minimal launcher designed for e-ink displays
-- **[Burrow UI](https://github.com/hamsterbase/Burrow-UI)** - Clean, distraction-free launcher
+- **[Burrow UI](https://github.com/hamsterbase/Burrow-UI)** - Clean, distraction-free launcher, vibe-coded by someone (good work!)
+- **[Olauncher](https://github.com/tanujnotes/Olauncher)** - Clean, minimalist launcher made by [this Minimalism fella](https://x.com/tanujnotes)
 
-## 🛠️ Useful Tools
+## Useful Tools
 
-- **[KeyMapper](https://github.com/keymapperorg/KeyMapper)** - Configure unused keys on the DC-1 for custom shortcuts
+- **[KeyMapper](https://github.com/keymapperorg/KeyMapper)** - Configure the two as-of-yet unused keys on the DC-1 for custom shortcuts
 
-## 🪶 Lightweight Alternatives
+## Lightweight app alternatives
 
 ### Social Media
 - **[Redlib](https://github.com/redlib-org/redlib)** - Privacy-focused Reddit client
 
 ### App Stores
-- **[Aurora Store](https://auroraoss.com/)** - Open-source Google Play Store client
+- **[Aurora Store](https://auroraoss.com/)** - Open-source Google Play Store client, to install Play Store apps without a Google account
 
-## 🎯 Usage Tips
-
-### Performance Optimization
-- The DC-1 prioritizes battery life and eye health over raw performance
-- Use lightweight apps when possible
-- Consider web apps for resource-intensive services
-- Enable battery optimization for background apps
+## 🎯 Tidbits
 
 ### Display Settings
-- Use the blue light-free backlight in evening hours
-- Take advantage of the reflective mode in bright sunlight
-- Adjust refresh rate based on your usage (reading vs. browsing)
-
-### Battery Life
-- The DC-1 excels at multi-day battery life with moderate use
-- Use airplane mode when reading offline content
-- Consider dark themes to maximize battery efficiency
+- During the day I barely touch the amber backlight, taking advantage of the reflective mode
+- Default 60hz should be sufficient for most, if you like high refresh rates, do the following:
+  - Open Settings, go to About Tablet, tap on Build Number until a tool tip says you're now a developer, then search for either `120hz` or `Smooth Display` in Settings's search bar
 
 ## 🤝 Contributing
 
-Found an awesome DC-1 compatible app or resource? Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Found an awesome DC-1 compatible app or resource? Open a Pull Request. 
 
-## 📄 License
-
-This list is released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+_This list is released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)._
 
 ---
 
 *Last updated: July 2025*
-
-*Maintained by the Daylight Computer community*
