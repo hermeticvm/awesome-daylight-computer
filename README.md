@@ -12,7 +12,7 @@ A curated list of cool projects, apps, and resources for the [Daylight Computer 
 - **[Daylight Hacker Gitlab](https://gitlab.com/daylight-hacker-wiki)**
 - **[Daylight DC-1 Press Kit](https://support.daylightcomputer.com/daylight-dc-1-press-kit-1)**
 - **[Daylight Capture & Reader App for all major platforms](https://support.daylightcomputer.com/download-capture-app)**
-- **[Official DaylightCo Subreddit](https://www.reddit.com/r/daylightco/)** 
+- **[Official DaylightCo Subreddit](https://www.reddit.com/r/daylightco/)**
 - **[Unofficial DaylightComputer Subreddit](https://www.reddit.com/r/daylightcomputer/)**
 - **[Official Daylight update regarding their Android 16 release](https://twiiit.com/daylightco/status/1932106242392211580)**
 - **[Access documents in Reader app on other platforms](https://app.daylightcomputer.com/)**
