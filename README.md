@@ -135,6 +135,16 @@ Interviews and podcast episodes featuring the Daylight Computer DC-1 and its fou
 
 Found an awesome DC-1 compatible app or resource? Open a Pull Request. 
 
+## Donate
+
+If you think any of this is helpful, consider supporting me:
+
+**Bitcoin:** `bc1qjt5n267ka8zuagtmrurez9vjs43hlg3qkqc8sc`
+
+**Bitcoin Lightning:** [hermeticvm@minibits.cash](lightning:hermeticvm@minibits.cash)
+
+**Monero:** `8AuPVyudY9hRedjkRzCisrDq5rnzbUvCTckcQr5dUaGWa1yzo77uMUP8LPpSQvPBbGEktHpPqkHFPdXuCYBEL6iz9kXAhFW`
+
 _This list is released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)._
 
 *Last updated: July 2025*
