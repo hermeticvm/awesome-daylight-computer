@@ -118,6 +118,19 @@ A collection of reviews, hands-on impressions, and discussions about the Dayligh
 
 ---
 
+## 🎙️ Interviews and Podcasts
+
+Interviews and podcast episodes featuring the Daylight Computer DC-1 and its creators.
+
+| Publisher | Title | Release Year | Link |
+|-----------|--------|--------------|------|
+| Jackson Dahl | A Sunrise Over Computing | 2024 | [jacksondahl.com](https://jacksondahl.com/dialectic/anjan-katta) |
+| The Generalist | Why the Real Computer Revolution Never Happened | 2024 | [generalist.com](https://www.generalist.com/p/why-the-real-computer-revolution-never-happened) |
+| Danny Jones Podcast | Steve Jobs Warned Us: How Blue Light Technology is Making You Sick | 2024 | [pocketcasts.com](https://pocketcasts.com/podcasts/9a9fad30-cab2-0136-3246-08b04944ede4/4b1d4330-6729-4020-99af-e5cf9ba48f1f) |
+| The Bitcoin Standard Podcast | Daylight Computer with Anjan Katta | 2024 | [saifedean.com](https://saifedean.com/podcast/249-daylight-computer-with-anjan-katta) |
+
+---
+
 ## Contributing
 
 Found an awesome DC-1 compatible app or resource? Open a Pull Request. 
