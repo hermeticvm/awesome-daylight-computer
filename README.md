@@ -2,9 +2,11 @@
 
 A curated list of cool projects, apps, and resources for the [Daylight Computer DC-1](https://daylightcomputer.com/product) - the blue light-free tablet that protects your circadian rhythm with its custom Reflective LCD display called LivePaper.
 
+<img src="logo.avif" alt="Daylight Computer DC-1" width="400" />
+
 > The DC-1 features a custom IGZO rLCD display produced by SHARP with two independent backlights, including a 100% blue light-free option, which is the amber backlight that you see on most pictures of it. It works beautifully outdoors and even in direct sunlight, often without requiring any backlight.
 
-## 📱 General resources
+## General resources
 
 - **[Daylight Computer Company website](https://daylightcomputer.com/)**
 - **[DC-1 Product specs](https://daylightcomputer.com/product)**
@@ -76,19 +78,48 @@ I don't like to feed Google so I disabled Gboard. Only disable Gboard after inst
 ### App Stores
 - **[Aurora Store](https://auroraoss.com/)** - Open-source Google Play Store client, to install Play Store apps without a Google account
 
-## 🎯 Tidbits
+## Tidbits
 
 ### Display Settings
 - During the day I barely touch the amber backlight, taking advantage of the reflective mode
 - Default 60hz should be sufficient for most, if you like high refresh rates, do the following:
   - Open Settings, go to About Tablet, tap on Build Number until a tool tip says you're now a developer, then search for either `120hz` or `Smooth Display` in Settings's search bar
 
-## 🤝 Contributing
+---
+
+## Reviews & Impressions
+
+A collection of reviews, hands-on impressions, and discussions about the Daylight Computer DC-1 from various sources.
+
+| Publisher/Author | Title | Year | Link |
+|------------------|--------|------|------|
+| Max P. | Daylight DC1 Review | 2025 | [max.pm](https://max.pm/posts/daylight_dc1/) |
+| Adventure.com | Daylight Computer Tablet Gear Review | 2025 | [adventure.com](https://adventure.com/daylight-computer-tablet-gear-review/) |
+| The Verge | Daylight Computer DC-1 hands-on: a tablet that wants to save your sleep | 2024 | [theverge.com](https://www.theverge.com/2024/7/20/24201356/daylight-computer-dc-1-hands-on) |
+| Reddit (r/daylightcomputer) | Indistractable: My review of the Daylight Computer | 2024 | [reddit.com](https://www.reddit.com/r/daylightcomputer/comments/1gt9gkd/indistractable_my_review_of_the_daylight_computer/) |
+| Tyler Cowen (Marginal Revolution) | The Daylight Computer | 2024 | [marginalrevolution.com](https://marginalrevolution.com/marginalrevolution/2024/08/the-daylight-computer.html) |
+| Dwarkesh Patel | Twitter thread on DC-1 | 2024 | [x.com](https://x.com/dwarkesh_sp/status/1815553288059891998) |
+| Patrick McKenzie (patio11) | Twitter thread with video | 2024 | [x.com](https://x.com/patio11/status/1804217931557171612) |
+| Adam Warski | Daylight Computer DC-1: Initial Impressions | 2024 | [no-kill-switch.ghost.io](https://no-kill-switch.ghost.io/daylight-computer-dc-1-initial-impressions/) |
+| Jon B | Daylight Computer 1 | 2024 | [jon.bo](https://jon.bo/posts/daylight-computer-1/) |
+| Scott Lewis | Daylight Computer 1: A Short Review | 2024 | [medium.com](https://scott890lewis.medium.com/daylight-computer-1-a-short-review-409aca9ffdb8) |
+| Boing Boing | Daylight DC-1 tablet taken for a spin | 2024 | [boingboing.net](https://boingboing.net/2024/07/22/daylight-dc-1-tablet-taken-for-a-spin.html) |
+| Om Malik | Daylight Tablet | 2024 | [om.co](https://om.co/2024/05/18/daylight-tablet/) |
+| Arun | Daylight Tablet Review | 2024 | [arun.is](https://arun.is/blog/daylight-tablet/) |
+| Erin Champ Walker | The Daylight Computer | 2024 | [medium.com](https://erinchampwalker.medium.com/the-daylight-computer-443a057510b0) |
+| Seth For Privacy | Daylight DC1: Magical Imperfection | 2024 | [sethforprivacy.com](https://sethforprivacy.com/posts/daylight-dc1-magical-imperfection/) |
+| Technology Curated | Daylight DC-1 Tablet Review: Redefining Screen Time with Live Paper Display | 2024 | [technologycurated.com](https://technologycurated.com/mobile-technology-and-gadgets/daylight-dc-1-tablet-review-redefining-screen-time-with-live-paper-display/) |
+| Liliputing | Daylight Computer DC-1 is a $799 tablet with a Live Paper display designed to be easy on the eyes but not the wallet | 2024 | [liliputing.com](https://liliputing.com/daylight-computer-dc-1-is-a-799-tablet-with-a-live-paper-display-designed-to-be-easy-on-the-eyes-but-not-the-wallet/) |
+| Gear Patrol | Daylight Computer DC01 Revealed | 2024 | [gearpatrol.com](https://www.gearpatrol.com/tech/daylight-computer-dc01-revealed/) |
+| Erandror | What is Daylight Computer 1? | 2024 | [erandror.com](https://www.erandror.com/p/what-is-daylight-computer-1) |
+| Good e-Reader | DC-1 tablet with Kindle-like Live Paper display launched | 2024 | [goodereader.com](https://goodereader.com/blog/tablet-slates/dc-1-tablet-with-kinde-like-live-paper-display-launched) |
+
+---
+
+## Contributing
 
 Found an awesome DC-1 compatible app or resource? Open a Pull Request. 
 
 _This list is released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)._
-
----
 
 *Last updated: July 2025*
