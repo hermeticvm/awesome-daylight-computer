@@ -118,9 +118,9 @@ A collection of reviews, hands-on impressions, and discussions about the Dayligh
 
 ---
 
-## 🎙️ Interviews and Podcasts
+## Interviews and Podcasts
 
-Interviews and podcast episodes featuring the Daylight Computer DC-1 and its creators.
+Interviews and podcast episodes featuring the Daylight Computer DC-1 and its founder Anjan Katta.
 
 | Publisher | Title | Release Year | Link |
 |-----------|--------|--------------|------|
