@@ -6,6 +6,8 @@ A curated list of cool projects, apps, and resources for the [Daylight Computer 
 
 > The DC-1 features a custom IGZO rLCD display produced by SHARP with two independent backlights, including a 100% blue light-free option, which is the amber backlight that you see on most pictures of it. It works beautifully outdoors and even in direct sunlight, often without requiring any backlight.
 
+This [Android Police interview](https://www.androidpolice.com/origins-daylight-dc-1-with-creator-anjan-katta/) with the founder Anjan Katta is a good primer on the display technology.
+
 ## General resources
 
 - **[Daylight Computer Company website](https://daylightcomputer.com/)**
