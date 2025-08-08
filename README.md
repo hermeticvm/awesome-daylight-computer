@@ -25,6 +25,10 @@ This [Android Police interview](https://www.androidpolice.com/origins-daylight-d
 
 ## Tablet Stands & Accessories
 
+### Keyboards
+
+- **[Mokibo Fusion Keyboard Universal](https://mokibo.com/products/universal) - A keyboard with an included trackpad, requires a dedicated tablet stand though
+
 ### Recommended Stands
 - **[Moft Snap Tablet Stand](https://www.moft.us/products/moft-snap-tablet-stand?variant=39308811173975)** - Ultra-thin magnetic stand perfect for DC-1
 
@@ -72,6 +76,7 @@ I don't like to feed Google so I disabled Gboard. Only disable Gboard after inst
 
 - **[KeyMapper](https://github.com/keymapperorg/KeyMapper)** - Configure the two as-of-yet unused keys on the DC-1 for custom shortcuts
 - **[Glassnote](https://glassnote.mthompson.io/)** - A transparent overlay note taking app optimized for the DC-1 (Open beta with waitlist on Google Play)
+- **[AutoShine](https://github.com/Valent-in/Auto-Shine)** - Overrides Android's native display brightness handler and allows for more customization 
 
 ## Lightweight app alternatives
 
