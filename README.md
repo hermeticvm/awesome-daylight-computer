@@ -20,8 +20,8 @@ This [Android Police interview](https://www.androidpolice.com/origins-daylight-d
 - **[Unofficial DaylightComputer Subreddit](https://www.reddit.com/r/daylightcomputer/)**
 - **[Official Daylight update regarding their Android 16 release](https://twiiit.com/daylightco/status/1932106242392211580)**
 - **[Access documents in Reader app on other platforms](https://app.daylightcomputer.com/)**
-- **[Semi-official(?) Discord](https://discord.gg/FQ8M4W3f)** (I refuse calling these "servers")
-- **[Daylight Hacker Discord](https://discord.gg/dGKBT3dt)** (I refuse calling these "servers")
+- **[Semi-official(?) Discord](https://discord.gg/FQ8M4W3f)**
+- **[Daylight Hacker Discord](https://discord.gg/dGKBT3dt)**
 
 ## Tablet Stands & Accessories
 
