@@ -20,10 +20,14 @@ This [Android Police interview](https://www.androidpolice.com/origins-daylight-d
 - **[Unofficial DaylightComputer Subreddit](https://www.reddit.com/r/daylightcomputer/)**
 - **[Official Daylight update regarding their Android 16 release](https://twiiit.com/daylightco/status/1932106242392211580)**
 - **[Access documents in Reader app on other platforms](https://app.daylightcomputer.com/)**
-- **[Semi-official(?) Discord](https://discord.gg/FQ8M4W3f)** (I refuse calling these "servers")
-- **[Daylight Hacker Discord](https://discord.gg/dGKBT3dt)** (I refuse calling these "servers")
+- **[Semi-official(?) Discord](https://discord.gg/FQ8M4W3f)**
+- **[Daylight Hacker Discord](https://discord.gg/dGKBT3dt)**
 
 ## Tablet Stands & Accessories
+
+### Keyboards
+
+- **[Mokibo Fusion Keyboard Universal](https://mokibo.com/products/universal)** - A keyboard with an included trackpad, requires a dedicated tablet stand though
 
 ### Recommended Stands
 - **[Moft Snap Tablet Stand](https://www.moft.us/products/moft-snap-tablet-stand?variant=39308811173975)** - Ultra-thin magnetic stand perfect for DC-1
@@ -72,6 +76,8 @@ I don't like to feed Google so I disabled Gboard. Only disable Gboard after inst
 
 - **[KeyMapper](https://github.com/keymapperorg/KeyMapper)** - Configure the two as-of-yet unused keys on the DC-1 for custom shortcuts
 - **[Obsidian](https://obsidian.md/)** – A free, flexible app for note-taking. Official DC-1 optimizations are in development ([see "Apps" section in FAQ](https://daylightcomputer.com/faq?subcategory=Software-Apps))
+- **[Glassnote](https://glassnote.mthompson.io/)** - A transparent overlay note taking app optimized for the DC-1 (Open beta with waitlist on Google Play)
+- **[AutoShine](https://github.com/Valent-in/Auto-Shine)** - Overrides Android's native display brightness handler and allows for more customization 
 
 ## Lightweight app alternatives
 
@@ -81,6 +87,7 @@ I don't like to feed Google so I disabled Gboard. Only disable Gboard after inst
 
 ### App Stores
 - **[Aurora Store](https://auroraoss.com/)** - Open-source Google Play Store client, to install Play Store apps without a Google account
+- **[Zapstore](https://zapstore.dev/)** - Alternative App Store where you can sign your apps using your nostr key
 
 ## Tidbits
 
