@@ -27,7 +27,7 @@ This [Android Police interview](https://www.androidpolice.com/origins-daylight-d
 
 ### Keyboards
 
-- **[Mokibo Fusion Keyboard Universal](https://mokibo.com/products/universal) - A keyboard with an included trackpad, requires a dedicated tablet stand though
+- **[Mokibo Fusion Keyboard Universal](https://mokibo.com/products/universal)** - A keyboard with an included trackpad, requires a dedicated tablet stand though
 
 ### Recommended Stands
 - **[Moft Snap Tablet Stand](https://www.moft.us/products/moft-snap-tablet-stand?variant=39308811173975)** - Ultra-thin magnetic stand perfect for DC-1
@@ -85,6 +85,7 @@ I don't like to feed Google so I disabled Gboard. Only disable Gboard after inst
 
 ### App Stores
 - **[Aurora Store](https://auroraoss.com/)** - Open-source Google Play Store client, to install Play Store apps without a Google account
+- **[Zapstore](https://zapstore.dev/)** - Alternative App Store where you can sign your apps using your nostr key
 
 ## Tidbits
 
