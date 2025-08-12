@@ -76,7 +76,7 @@ I don't like to feed Google so I disabled Gboard. Only disable Gboard after inst
 ## Useful Tools
 
 - **[KeyMapper](https://github.com/keymapperorg/KeyMapper)** - Configure the two as-of-yet unused keys on the DC-1 for custom shortcuts
-- **[Glassnote](https://glassnote.mthompson.io/)** - A transparent overlay note taking app optimized for the DC-1 (Open beta with waitlist on Google Play)
+- **[Glassnote](https://glassnote.mthompson.io/)** - A transparent overlay note taking app optimized for the DC-1 (Open beta with waitlist for Google Play)
 - **[AutoShine](https://github.com/Valent-in/Auto-Shine)** - Overrides Android's native display brightness handler and allows for more customization 
 
 ## Lightweight app alternatives
