@@ -70,6 +70,7 @@ I don't like to feed Google so I disabled Gboard. Only disable Gboard after inst
 ### E-Ink Optimized Launchers
 - **[ThinkLauncher](https://github.com/MatiasDesuu/ThinkLauncher)** - Minimal launcher designed for e-ink displays
 - **[Burrow UI](https://github.com/hamsterbase/Burrow-UI)** - Clean, distraction-free launcher, vibe-coded by someone (good work!)
+- **[Burrowed Launcher](https://github.com/hermeticvm/burrowedlauncher)** - Minimalist launcher fork by https://github.com/hermeticvm (me), built for the DC-1
 - **[Olauncher](https://github.com/tanujnotes/Olauncher)** - Clean, minimalist launcher made by [this Minimalism fella](https://x.com/tanujnotes)
 
 ## Useful Tools
