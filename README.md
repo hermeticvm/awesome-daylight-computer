@@ -2,7 +2,7 @@
 
 A curated list of cool projects, apps, and resources for the [Daylight Computer DC-1](https://daylightcomputer.com/product) - the blue light-free tablet that protects your circadian rhythm with its custom Reflective LCD display called LivePaper.
 
-<img src="logo.avif" alt="Daylight Computer DC-1" width="400" />
+<img src="logo.png" alt="Daylight Computer DC-1" width="500" />
 
 > The DC-1 features a custom IGZO rLCD display produced by SHARP with two independent backlights, including a 100% blue light-free option, which is the amber backlight that you see on most pictures of it. It works beautifully outdoors and even in direct sunlight, often without requiring any backlight.
 
