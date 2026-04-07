@@ -69,23 +69,27 @@ I don't like to feed Google so I disabled Gboard. Only disable Gboard after inst
 
 ### E-Ink Optimized Launchers
 - **[ThinkLauncher](https://github.com/MatiasDesuu/ThinkLauncher)** - Minimal launcher designed for e-ink displays
-- **[Burrow UI](https://github.com/hamsterbase/Burrow-UI)** - Clean, distraction-free launcher, vibe-coded by someone (good work!)
 - **[Olauncher](https://github.com/tanujnotes/Olauncher)** - Clean, minimalist launcher made by [this Minimalism fella](https://x.com/tanujnotes)
 
 ## Useful Tools
 
+### Screen Mirroring (Mac to DC-1)
+
+- **[SuperMirror](https://supermirror.app/)** - Mirrors macOS screens to the DC-1 at 60Hz ([X](https://x.com/supermirror_app), by [@_welf](https://x.com/_welf))
+
+### Utilities
+
 - **[KeyMapper](https://github.com/keymapperorg/KeyMapper)** - Configure the two as-of-yet unused keys on the DC-1 for custom shortcuts
 - **[Glassnote](https://glassnote.mthompson.io/)** - A transparent overlay note taking app optimized for the DC-1 (Open beta with waitlist for Google Play)
 - **[AutoShine](https://github.com/Valent-in/Auto-Shine)** - Overrides Android's native display brightness handler and allows for more customization
-- **[daylight-mirror](https://github.com/welfvh/daylight-mirror)** - Screen mirroring solution for using Daylight Computer as external Mac display
+
+### Games
+
+- **[Project Warden](https://paravel.co/)** - Invite-only RPG made for the DC-1
 
 ## Lightweight app alternatives
 
-### Social Media
-- **[Redlib](https://github.com/redlib-org/redlib)** - Privacy-focused Reddit client
-
 ### App Stores
-- **[Aurora Store](https://auroraoss.com/)** - Open-source Google Play Store client, to install Play Store apps without a Google account
 - **[Zapstore](https://zapstore.dev/)** - Alternative App Store where you can sign your apps using your nostr key
 
 ## Tidbits
@@ -154,5 +158,3 @@ If you think any of this is helpful, consider supporting me:
 **Monero:** `8AuPVyudY9hRedjkRzCisrDq5rnzbUvCTckcQr5dUaGWa1yzo77uMUP8LPpSQvPBbGEktHpPqkHFPdXuCYBEL6iz9kXAhFW`
 
 _This list is released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)._
-
-*Last updated: July 2025*
